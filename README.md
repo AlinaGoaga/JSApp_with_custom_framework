@@ -1,3 +1,1 @@
-///Challenge
-
-To make our own testing framework!
+** Testing framework in Javascript
