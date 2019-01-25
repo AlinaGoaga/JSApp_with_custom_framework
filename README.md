@@ -4,9 +4,9 @@
 - can be used to test Javascript projects
 - follows the expect(x).toAction.(y) type of syntax for readability 
 - at the moment it includes: 
-  • describe
-  • it
-  • matchers (toEqual, toContain, toThrowError)
+  * describe
+  * it
+  * matchers (toEqual, toContain - works for finding an item in an Array or finding a substring, toThrowError)
 - it was build around a simple Square class which can be found in the repository as well to assist with how tests need to be written 
 
 ### Further developments needed
